@@ -1,0 +1,190 @@
+/* impostazione sfondo  */
+body{
+  background-image: url(sfondo.jpg);
+  width: 6000px; height: 3100px;
+  margin: auto;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* background nero trasparente */
+.partecentrale{
+  display: inline-block;
+  background-color: rgba(0,0,0,0.5);
+  width: 3800px; height: 2700px;
+  border-radius: 100px;
+  margin-top: 100px;
+}
+
+/* logo azienda centrale e titolo */
+#logoazienda{
+  height: 380px;
+  margin-top: 300px;
+}
+#titolo{
+  font-family: Roboto;
+  font-size: 120px; color: #14D928;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/* menu selezione centrale orizzontale */
+.menucentrale{
+  background-color: #14D928;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-right: 350px;
+  margin-left: 350px;
+}
+.selezione{
+  font-size: 40px;
+  font: Roboto;
+  margin-left: 10px;
+  margin-top: 10px;
+  padding: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  width: auto;
+}
+
+/* opzioni scelta prenotazione */
+.opzioniscelta{
+  text-align: left;
+  margin-left: 350px;
+  margin-top: 60px;
+}
+
+/* monopattino 1 */
+#tasto1{
+  width: 40px;
+  height: 40px;
+  margin-bottom: 0px;
+}
+#opzione1{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 80px;
+  margin: auto;
+  margin-left: 10px;
+  color: white;
+}
+#freccia1{
+  color: white;
+  font-size: 40px;
+}
+#addres1{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 50px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+}
+#statocarica1{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 45px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+}
+.lvcarica1{
+  width: 1100px;
+  height: 90px;
+  background-color: #ffbc40;
+  border-radius: 20px;
+  border: 1px;
+  margin-top: 5px;
+}
+
+/* monopattino 2 */
+.noleggio2{
+  margin-top: 100px;
+}
+#tasto2{
+  width: 40px;
+  height: 40px;
+  margin-bottom: 0px;
+}
+#opzione2{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 80px;
+  margin: auto;
+  margin-left: 10px;
+  color: white;
+}
+#freccia2{
+  color: white;
+  font-size: 40px;
+}
+#addres2{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 50px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+}
+#statocarica2{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 45px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+}
+.lvcarica2{
+  width: 1850px;
+  height: 90px;
+  background-color: #14D928;
+  border-radius: 20px;
+  border: 1px;
+  margin-top: 5px;
+}
+
+/* monopattino 3 */
+.noleggio3{
+  margin-top: 100px;
+}
+#tasto3{
+  width: 40px;
+  height: 40px;
+  margin-bottom: 0px;
+}
+#opzione3{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 80px;
+  margin: auto;
+  margin-left: 10px;
+  color: white;
+}
+#freccia3{
+  color: white;
+  font-size: 40px;
+}
+#addres3{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 50px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+}
+#statocarica3{
+  display: inline-block;
+  font-family: Roboto;
+  font-size: 45px;
+  color: white;
+  margin: auto;
+  margin-top: 20px;
+}
+.lvcarica3{
+  width: 500px;
+  height: 90px;
+  background-color: #cb3234;
+  border-radius: 20px;
+  border: 1px;
+  margin-top: 5px;
+}
